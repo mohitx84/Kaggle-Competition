@@ -19,9 +19,8 @@ This project is focused on predicting final prices of homes based on various fea
 * Pandas, NumPy
 * Seaborn, Matplotlib
 * Scikit-learn
-* XGBoost / LightGBM / CatBoost
-* Jupyter Notebook
-
+* XGBoost 
+* Google colab
 ---
 
 
